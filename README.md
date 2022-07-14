@@ -78,7 +78,7 @@ dicionario = {
     'Nascimento':['26/06/2001','10/06/2000'],
     'Local':['Santa Cecília SC','Monte castelo SC'],
     'RG':[4868553,390381312],
-    'CPF':[0508179480,37122347341],
+    'CPF':['0508179480','37122347341'],
     }
     
     para transformar esses dados em um dataframe com pandas, foi feito criado uma nova variavel recebendo a palavra "pd." como a variavel que foi criado o dicionario como mostra abaixo:
